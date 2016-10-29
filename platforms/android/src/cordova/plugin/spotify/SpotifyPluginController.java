@@ -1,0 +1,2 @@
+package cordova.plugin.spotify;
+
